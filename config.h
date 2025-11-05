@@ -21,12 +21,12 @@
     X("", "systemstatus", 1, 1)  \
     X("", "diskspace", 1, 2)  \
     X("", "updates", 86400, 3)  \
-    X("", "bt", 1, 4)  \
-    X("", "audio", 1, 5)   \
-    X("󰃠", "brightness", 1, 6) \
-    X("", "internet", 5, 7) \
-    X("", "battery", 1, 8) \
-    X("󰃰 ", "TZ=Asia/Kolkata date '+%b %d - %I:%M%p'",      60,      9) \
-    X("", "sb-volume", 0, 10) 
+    X("", "music", 1, 4)  \
+    X("", "bt", 1, 5)  \
+    X("", "audio", 1, 6)   \
+    X("󰃠", "brightness", 1, 7) \
+    X("", "internet", 5, 8) \
+    X("", "battery", 1, 9) \
+    X("󰃰 ", "TZ=Asia/Kolkata date '+%b %d - %I:%M%p'",      60,      10) 
 
 #endif  // CONFIG_H
